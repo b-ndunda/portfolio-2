@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(/home/moringa/Pictures/Image_281133_1511531579.jpeg);
+
+}
+box{
+    width: 450px;
+    background-color: beige;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.box-img {
+    border-radius: 50%;
+    width:200px;
+    height: 200px;
+}
+box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100px;
+
+}
+box h2{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100px;
+
+}
+box p{
+    text-align: justify;
+}
+about-text p{
+    color: beige;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 0px;
+}
