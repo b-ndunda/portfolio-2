@@ -1,12 +1,18 @@
-body{
-    margin: 0;
-    padding: 0;
-    background: url(/home/moringa/Pictures/Image_281133_1511531579.jpeg);
+img{
+    height: 80vh;
+    width: 100%;
 
 }
+@media screen and (min-width: 480px) {
+    body {
+        background-color: #706e75;
+        color: white;
+    } 
+}
+
 box{
     width: 450px;
-    background-color: beige;
+    background-color: ;
     padding: 40px;
     text-align: center;
     margin: auto;
